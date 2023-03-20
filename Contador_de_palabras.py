@@ -36,4 +36,4 @@ def find_match(texto, palabra):
             counter += 1
     print(counter)
 
-find_match(read_file("texto.txt"), "ruby")
+find_match(read_file("texto.txt"), "alhambra")
